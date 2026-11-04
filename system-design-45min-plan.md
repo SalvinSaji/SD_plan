@@ -75,4 +75,3 @@ Rules:
 | Day 61 | 20/12/26 (Mon) | 52 | [Review - All Topics Covered](https://www.youtube.com/watch?v=QbGoqAgP_zg&list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT) | — | Full video (~45:00) | 0:00-45:00 | Review | — |
 | Day 62 | 21/12/26 (Tue) | 53 | [Review - All Topics Covered](https://www.youtube.com/watch?v=QbGoqAgP_zg&list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT) | — | Full video (~45:00) | 0:00-45:00 | Review | — |
 | Day 63 | 22/12/26 (Wed) | 54 | [Review - All Topics Covered](https://www.youtube.com/watch?v=QbGoqAgP_zg&list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT) | — | Full video (~45:00) | 0:00-45:00 | Review | — |
-EOF
